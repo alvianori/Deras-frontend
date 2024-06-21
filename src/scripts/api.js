@@ -1,5 +1,5 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = "https://plwrg1j9-3000.asse.devtunnels.ms";
+const BASE_URL = "http://34.101.142.29:5500";
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,
